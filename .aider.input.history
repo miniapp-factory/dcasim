@@ -1,0 +1,46 @@
+
+# 2025-11-20 19:16:00.277203
++Code the following app
++```
++Idea: A Dollar Cost Averaging (DCA) simulator and backtester.
++User Goal: Validate the strategy of buying small amounts regularly versus trying to time the market.
++Core Features (MVP):
++
++* Input: Coin, Investment Amount, Frequency (Daily/Weekly), Start Date.
++* Comparison: DCA vs. Lump Sum (buying all at once on day 1).
++* Output: Total invested, Current Value, ROI %, Average Entry Price.
++* Visual chart of Portfolio Value over time.
++
++Development Plan:
++
++1. Build a robust historical price database (daily close prices).
++2. Create the calculation logic: iterate through dates and simulate buys.
++3. Develop a clean, "calculator-style" UI.
++4. Add a "Share Result" feature (image generation) for social media.
++5. Add support for top 50 coins.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:16:00.283499
++Code the following app
++```
++Idea: A Dollar Cost Averaging (DCA) simulator and backtester.
++User Goal: Validate the strategy of buying small amounts regularly versus trying to time the market.
++Core Features (MVP):
++
++* Input: Coin, Investment Amount, Frequency (Daily/Weekly), Start Date.
++* Comparison: DCA vs. Lump Sum (buying all at once on day 1).
++* Output: Total invested, Current Value, ROI %, Average Entry Price.
++* Visual chart of Portfolio Value over time.
++
++Development Plan:
++
++1. Build a robust historical price database (daily close prices).
++2. Create the calculation logic: iterate through dates and simulate buys.
++3. Develop a clean, "calculator-style" UI.
++4. Add a "Share Result" feature (image generation) for social media.
++5. Add support for top 50 coins.
++```
++
++Generate an app logo and update the app metadata title and description.
